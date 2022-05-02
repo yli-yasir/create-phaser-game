@@ -1,0 +1,11 @@
+{
+  "name": "@yli/create-phaser-game",
+  "version": "1.0.0",
+  "description": "Quickly create a phaser game.",
+  "bin": "./bin/createPhaserGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yli-yasir",
+  "license": "ISC"
+}
